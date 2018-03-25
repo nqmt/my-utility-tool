@@ -1,0 +1,14 @@
+{
+  "name": "my-utility-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nqmt/my-utility-tool.git",
+  "author": "nqmt <to.nqmt@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "hbnjs": "browser-sync start --server hamburgerbar-without-js --files hamburgerbar-without-js --port 7001"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
