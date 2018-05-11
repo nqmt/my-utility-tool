@@ -43,6 +43,7 @@ function loadResult() {
 ```
 
 ```javascript
+// for.js
 self.onmessage = function(event) {
     var x = 0;
     for (var i = 0; i < 200000000; i++) {
@@ -91,4 +92,4 @@ self.onmessage = function(event) {
 yarn dev
 ```
 
-[Reference learning by Uday Hiwarale]('https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db)
+[Reference learning by Uday Hiwarale]('https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db')
