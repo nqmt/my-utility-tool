@@ -92,4 +92,4 @@ self.onmessage = function(event) {
 yarn dev
 ```
 
-[Reference learning by Uday Hiwarale]('https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db')
+[Reference learning by Uday Hiwarale](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db)
