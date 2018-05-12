@@ -14,3 +14,5 @@ function loadResult() {
     workerFor.postMessage(blobObj, [blobObj.img1]); // transfer only blobObj.img1
     workerFor.postMessage(blobArr, [blobArr[1]]); // transfer only blobObj[1]
 };
+
+document.​
